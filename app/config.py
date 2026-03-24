@@ -4,7 +4,7 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 class Settings(BaseSettings):
     database_url: str
     openai_api_key: str = ""
-    openai_model: str = "gpt-5"
+    openai_model: str = "gpt-5-mini"
     jwt_secret: str
     admin_emails: str = ""
 
