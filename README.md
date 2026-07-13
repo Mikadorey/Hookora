@@ -14,7 +14,7 @@ Generate high-performing hooks, captions, titles, content ideas, hashtags, marke
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql)
 ![Railway](https://img.shields.io/badge/Railway-Deployed-black?style=for-the-badge&logo=railway)
-![Vercel](https://img.shields.io/badge/Vercel-Frontend-black?style=for-the-badge&logo=vercel)
+![Hostinger](https://img.shields.io/badge/Hostinger-Frontend-673DE6?style=for-the-badge&logo=hostinger)
 
 </p>
 
