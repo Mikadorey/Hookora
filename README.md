@@ -155,7 +155,7 @@ The platform combines prompt engineering, AI orchestration, reusable workflows, 
 ## Deployment
 
 - Railway
-- Vercel
+- Hostinger
 
 ---
 
