@@ -1,4 +1,5 @@
 <div align="center">
+<img src="screenshots/logo.png" width="120">
 
 # 🚀 Hookora
 
@@ -184,37 +185,37 @@ app/
 
 ## Home Page
 
-*(Add screenshot here)*
+![Home](screenshots/homepage.png)
 
 ---
 
 ## Dashboard
 
-*(Add screenshot here)*
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
 ## Hook Generator
 
-*(Add screenshot here)*
+![Hook Generator](screenshots/hook-generator.png)
 
 ---
 
 ## Caption Generator
 
-*(Add screenshot here)*
+![Caption Generator](screenshots/caption-generator.png)
 
 ---
 
 ## Pricing
 
-*(Add screenshot here)*
+![Pricing](screenshots/pricing.png)
 
 ---
 
 ## Blog
 
-*(Add screenshot here)*
+![Blog](screenshots/blog.png)
 
 ---
 
