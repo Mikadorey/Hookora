@@ -344,6 +344,8 @@ Founder of Hookora
 
 💼 https://linkedin.com/in/brightgboneso
 
+💼 brightgboneso@gmail.com
+
 ---
 
 <div align="center">
